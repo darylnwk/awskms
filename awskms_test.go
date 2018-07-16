@@ -7,7 +7,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/service/kms"
 	"github.com/aws/aws-sdk-go/service/kms/kmsiface"
-	"github.com/darylnwk/awskms"
+	"github.com/reddotpay/awskms"
 	"github.com/stretchr/testify/assert"
 )
 
